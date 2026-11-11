@@ -1,0 +1,2 @@
+exec prog RR
+echo ScriptEnd
